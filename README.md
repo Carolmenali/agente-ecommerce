@@ -19,32 +19,38 @@ A aplicação utiliza uma arquitetura baseada em RAG (Geração Aumentada por Re
 ## 🚀 Instruções para Executar o Projeto
 
 1. Clone o repositório do projeto:
-
-   ``` git clone https://github.com/Carolmenali/agente-ecommerce.git
-    cd agente-ecommerce
+```bash
+git clone [https://github.com/Carolmenali/agente-ecommerce.git](https://github.com/Carolmenali/agente-ecommerce.git)
+cd agente-ecommerce
+```
 
 2. Crie e ative um ambiente virtual (Recomendado):
 
-    ``` No Windows:
-    python -m venv venv
-    venv\Scripts\activate
+**No Windows:**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
 
-   ``` No Linux/Mac:
-    python3 -m venv venv
-    source venv/bin/activate
+**No Linux/Mac:**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
 3. Instale as dependências necessárias:
-
-    pip install streamlit google-generativeai pypdf
+```bash
+pip install streamlit google-generativeai pypdf
+```
 
 4. Configure a sua chave de API:
-    * Gere a sua chave de API no Google AI Studio.
-    * Abra o arquivo app.py e substitua o texto "COLOQUE_SUA_CHAVE_AQUI" pela sua chave real.
+* Gere a sua chave de API no Google AI Studio.
+* Abra o arquivo `app.py` e substitua o texto `"COLOQUE_SUA_CHAVE_AQUI"` pela sua chave real.
 
 5. Execute a aplicação:
-
-    streamlit run app.py
-
+```bash
+streamlit run app.py
+```
 
 ## 📋 Exemplos de Perguntas e Respostas do Agente
 
