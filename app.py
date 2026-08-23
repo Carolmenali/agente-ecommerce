@@ -8,7 +8,7 @@ st.title("🤖 Assistente Virtual - Aziz Concept")
 st.write("Bem-vinda! Como posso te ajudar com suas peças hoje?")
 
 # A chave do motor (Já preenchida para você!)
-genai.configure(api_key="AQ.Ab8RN6L3wa8zovvYwEGkJRFdcZP19HHVELTbgYyojdTExaKcRA")
+genai.configure(api_key="COLOQUE_SUA_CHAVE_AQUI")
 
 # Lendo o PDF da Loja
 @st.cache_data
