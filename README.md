@@ -20,16 +20,16 @@ A aplicação utiliza uma arquitetura baseada em RAG (Geração Aumentada por Re
 
 1. Clone o repositório do projeto:
 
-    git clone https://github.com/Carolmenali/agente-ecommerce.git
+   ``` git clone https://github.com/Carolmenali/agente-ecommerce.git
     cd agente-ecommerce
 
 2. Crie e ative um ambiente virtual (Recomendado):
 
-    ```No Windows:
+    ``` No Windows:
     python -m venv venv
     venv\Scripts\activate
 
-    ```No Linux/Mac:
+   ``` No Linux/Mac:
     python3 -m venv venv
     source venv/bin/activate
 
