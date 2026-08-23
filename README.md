@@ -28,7 +28,7 @@ A aplicação utiliza uma arquitetura baseada em RAG (Geração Aumentada por Re
     pip install streamlit google-generativeai pypdf
 
 3. Configure a sua chave de API:
-    Insira a sua chave do Google Gemini no código fonte (app.py).
+    Gere a sua chave de API no Google AI Studio e insira-a no código fonte (app.py).
 
 4. Execute a aplicação:
 
