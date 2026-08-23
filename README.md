@@ -24,13 +24,13 @@ A aplicação utiliza uma arquitetura baseada em RAG (Geração Aumentada por Re
     cd agente-ecommerce
 
 2. Instale as dependências necessárias:
-3. 
+
     pip install streamlit google-generativeai pypdf
 
-4. Configure a sua chave de API:
+3. Configure a sua chave de API:
     Insira a sua chave do Google Gemini no código fonte (app.py).
 
-5. Execute a aplicação:
+4. Execute a aplicação:
 
     streamlit run app.py
 
