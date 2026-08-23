@@ -1,6 +1,6 @@
 # 🤖 Assistente Virtual - Aziz Concept (Challenge Alura Agente)
 
-Projeto desenvolvido como desafio do curso de Agentes de Inteligência Artificial da Alura (ORACLE ONE), consistindo em um assistente corporativo com RAG (Retrieval-Augmented Generation) baseado em políticas internas da marca.
+Projeto desenvolvido como desafio final da fase Tech Builder do programa ONE (Oracle Next Education), em parceria com a Alura. Consiste em um assistente corporativo com RAG (Retrieval-Augmented Generation) baseado em políticas internas da marca.
 
 ## 🏛️ Arquitetura da Solução
 A aplicação utiliza uma arquitetura baseada em RAG (Geração Aumentada por Recuperação):
