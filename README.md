@@ -20,7 +20,7 @@ A aplicação utiliza uma arquitetura baseada em RAG (Geração Aumentada por Re
 
 **1. Clone o repositório do projeto:**
 ```bash
-git clone [https://github.com/Carolmenali/agente-ecommerce.git](https://github.com/Carolmenali/agente-ecommerce.git)
+git clone https://github.com/Carolmenali/agente-ecommerce.git
 cd agente-ecommerce
 ```
 
