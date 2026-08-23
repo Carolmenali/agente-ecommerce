@@ -25,11 +25,11 @@ A aplicação utiliza uma arquitetura baseada em RAG (Geração Aumentada por Re
 
 2. Crie e ative um ambiente virtual (Recomendado):
 
-    # No Windows:
+    ```No Windows:
     python -m venv venv
     venv\Scripts\activate
 
-    # No Linux/Mac:
+    ```No Linux/Mac:
     python3 -m venv venv
     source venv/bin/activate
 
